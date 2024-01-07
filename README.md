@@ -1,2 +1,2 @@
 # Music-Genre-Classification
-# test
+Predicting the music genre of a song based on lyrics and audio features.
